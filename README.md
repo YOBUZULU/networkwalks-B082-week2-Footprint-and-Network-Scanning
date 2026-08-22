@@ -2,7 +2,7 @@
 
 **Program:** Cybersecurity & Pentesting — Networkwalks Academy  
 **Batch:** B082  
-**Student:** [Your Name]  
+**Student:** Zulu Yobu  
 **Instructor:** Sir Waqas Karim (CCIE)
 
 > Second project of the Networkwalks Cybersecurity program: the **reconnaissance phase** of hacking. Week 2 has two project modules — **W2-PM1: Domain Footprinting** (gathering intelligence about a target domain) and **W2-PM5: Network Scanning with Zenmap** (discovering live hosts on a LAN).
@@ -421,12 +421,7 @@ networkwalks-week2/
     └── 11-pm5-intense-scan.png ← REAL result (values redacted)
 ```
 
-> 💡 `01`–`06` (PM1) and `09`–`11` (PM5) are my **actual results** with all
-> sensitive values redacted (username, IPs, MACs, cookie values, tokens).
-> `07`–`08` are example images — replace them with your own captures
-> (see `screenshots/HOW_TO_ATTACH.md`).
 
----
 
 # 🚧 Troubleshooting
 
