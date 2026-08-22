@@ -56,7 +56,7 @@
 | 8 | PM5 — Local IP & subnet identified (`ipconfig`) | ✅ |
 | 9 | PM5 — Live hosts discovered — **3 hosts up** | ✅ |
 | 10 | PM5 — Host count, IPs & MACs recorded | ✅ |
-| 11 | PM5 — Topology saved as PDF | ⏳ In progress |
+| 11 | PM5 — Topology saved as PDF | ✔✔ |
 | 12 | Full documentation with screenshots (this repo) | ✅ |
 
 ---
@@ -452,14 +452,6 @@ On to **Week 3**! 🚀
 
 ---
 
-# 📚 References
-
-- Nmap / Zenmap official download — <https://nmap.org/download.html>
-- Nmap Reference Guide (Host Discovery) — <https://nmap.org/book/man-host-discovery.html>
-- Kali tools: whois · whatweb · dnsrecon · wafw00f — <https://www.kali.org/tools/>
-- IANA whois service — <https://www.iana.org/whois>
-
----
 
 # ⚖️ Disclaimer
 
