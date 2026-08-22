@@ -56,7 +56,7 @@
 | 8 | PM5 — Local IP & subnet identified (`ipconfig`) | ✅ |
 | 9 | PM5 — Live hosts discovered — **3 hosts up** | ✅ |
 | 10 | PM5 — Host count, IPs & MACs recorded | ✅ |
-| 11 | PM5 — Topology saved as PDF | ✔✔ |
+| 11 | PM5 — Topology saved as PDF | ✔ |
 | 12 | Full documentation with screenshots (this repo) | ✅ |
 
 ---
