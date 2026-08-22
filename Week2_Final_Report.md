@@ -2,7 +2,7 @@
 
 **Program:** Cybersecurity & Pentesting — Networkwalks Academy  
 **Batch:** B082  
-**Student:** [Your Name]  
+**Student:** Zulu Yobu  
 **Instructor:** Sir Waqas Karim (CCIE)  
 **Date:** 22 August 2026
 
@@ -255,12 +255,6 @@ Zenmap → **Topology** tab → **Controls → Save Graphic → PDF** → saved 
 Special thanks to **Sir Waqas Karim (CCIE)** and the **Networkwalks** team for
 the guidance and support throughout Batch B082.
 
-## 5. References
-
-- Nmap / Zenmap — <https://nmap.org/download.html>
-- Nmap Host Discovery — <https://nmap.org/book/man-host-discovery.html>
-- Kali tools — <https://www.kali.org/tools/>
-- IANA whois — <https://www.iana.org/whois>
 
 ---
 
